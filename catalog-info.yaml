@@ -26,7 +26,7 @@ metadata:
 spec:
   type: service
   lifecycle: production
-  owner: "rhsummit23"
+  owner: "user:rhsummit23"
   system: workshop-system-rhsummit23
 ---
 apiVersion: backstage.io/v1alpha1
@@ -40,4 +40,4 @@ metadata:
     - workshop
     - rh-summit
 spec:
-  owner: "rhsummit23"
+  owner: "user:rhsummit23"
